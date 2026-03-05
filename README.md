@@ -1,3 +1,8 @@
+About
+Simple lightweight addon for paladins. Receiving a whisper with HOP or Hand of Protection will pop up an HOP icon in the middle of your screen and play the raidwarning sound.
+
+
+
 /hopalert to move the icon (resets on relog)
 
 
