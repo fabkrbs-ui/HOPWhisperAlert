@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: HOP Whisper Alert
+## Notes: Shows a big Hand of Protection icon when whispered "HOP" or "Hand of Protection".
+## Author: Krabs + AI
+## Version: 1.0
+HOPWhisperAlert.lua
