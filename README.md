@@ -2,7 +2,7 @@ Simple lightweight addon for paladins. Receiving a whisper with HOP or Hand of P
 
 
 
-/hopalert to move the icon (resets on relog)
+/hop for settings
 
 
 
