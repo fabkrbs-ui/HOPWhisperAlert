@@ -12,4 +12,4 @@ Simple lightweight addon for paladins. Receiving a whisper with HOP or Hand of P
 
 
 
-![Example](https://imgur.com/a/EADYKgs)
+https://i.imgur.com/1Q1wt78.jpeg
